@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="22.61">
-<testcase classname="Capture list of centres in respective location" name="validate the navigation to All Categories link" time="22.31">
-<system-out><![CDATA[Given Luncht the browser and hit the url....................................passed
-When Navigate to All Categories Link........................................passed
-Then Validate the Navigation from All Categories link.......................passed
-]]></system-out>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="116.39">
+<testcase classname="Capture list of centres in respective location" name="validate the navigation to All Categories link" time="116.132">
+<failure message="No frame element found by name or id webpush-onsite&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'LP-DG8BZY2', ip: '10.117.189.123', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchFrameException"><![CDATA[Given Luncht the browser and hit the url....................................passed
+When Navigate to All Categories Link........................................failed
+And Hover on Stores and playschools.........................................skipped
+And Hover to Playschools tab................................................skipped
+And click on location pin Bengaluru.........................................skipped
+And click the city Bengaluru................................................skipped
+And click on the centers and select Bangalore...............................skipped
+Then Validate the Navigation from All Categories link.......................skipped
+
+StackTrace:
+org.openqa.selenium.NoSuchFrameException: No frame element found by name or id webpush-onsite
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LP-DG8BZY2', ip: '10.117.189.123', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.frame(RemoteWebDriver.java:885)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringTargetLocator.frame(EventFiringWebDriver.java:702)
+	at com.ui.firstcry.pages.FCHomePage.getAllCategories(FCHomePage.java:46)
+	at com.ui.stepdefinations.ValidateNavigateAllCategories.navigate_to_All_Categories_Link(ValidateNavigateAllCategories.java:32)
+	at ✽.Navigate to All Categories Link(file:///C:/Users/bharathraj_s/Desktop/Hackthon/ING_Bharath_TEAMC/./Features/FirstCry.feature:5)
+]]></failure>
 </testcase>
 </testsuite>

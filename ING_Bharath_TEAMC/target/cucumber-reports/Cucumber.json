@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2020-03-19T06:48:49.156Z",
+        "start_timestamp": "2020-03-19T10:44:26.739Z",
         "line": 3,
         "name": "validate the navigation to All Categories link",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 22249000000,
+              "duration": 15999000000,
               "status": "passed"
             },
             "line": 4,
@@ -25,7 +25,9 @@
           },
           {
             "result": {
-              "status": "passed"
+              "error_message": "org.openqa.selenium.NoSuchFrameException: No frame element found by name or id webpush-onsite\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027LP-DG8BZY2\u0027, ip: \u002710.117.189.123\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_181\u0027\nDriver info: driver.version: unknown\r\n\tat org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.frame(RemoteWebDriver.java:885)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringTargetLocator.frame(EventFiringWebDriver.java:702)\r\n\tat com.ui.firstcry.pages.FCHomePage.getAllCategories(FCHomePage.java:46)\r\n\tat com.ui.stepdefinations.ValidateNavigateAllCategories.navigate_to_All_Categories_Link(ValidateNavigateAllCategories.java:32)\r\n\tat ✽.Navigate to All Categories Link(file:///C:/Users/bharathraj_s/Desktop/Hackthon/ING_Bharath_TEAMC/./Features/FirstCry.feature:5)\r\n",
+              "duration": 100068000000,
+              "status": "failed"
             },
             "line": 5,
             "name": "Navigate to All Categories Link",
@@ -36,9 +38,69 @@
           },
           {
             "result": {
-              "status": "passed"
+              "status": "skipped"
             },
             "line": 6,
+            "name": "Hover on Stores and playschools",
+            "match": {
+              "location": "com.ui.stepdefinations.ValidateNavigateAllCategories.hoverOnStoresAndPlayschools()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "Hover to Playschools tab",
+            "match": {
+              "location": "com.ui.stepdefinations.ValidateNavigateAllCategories.hoverToPlayschoolsTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "click on location pin Bengaluru",
+            "match": {
+              "location": "com.ui.stepdefinations.ValidateNavigateAllCategories.clickOnLocationPinBengaluru()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "click the city Bengaluru",
+            "match": {
+              "location": "com.ui.stepdefinations.ValidateNavigateAllCategories.clickTheCityBengaluru()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "click on the centers and select Bangalore",
+            "match": {
+              "location": "com.ui.stepdefinations.ValidateNavigateAllCategories.clickOnTheCentersAndSelectBangalore()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "skipped"
+            },
+            "line": 11,
             "name": "Validate the Navigation from All Categories link",
             "match": {
               "location": "com.ui.stepdefinations.ValidateNavigateAllCategories.validate_the_Navigation_from_All_Categories_link()"
