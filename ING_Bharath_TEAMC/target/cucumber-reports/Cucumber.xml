@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="22.61">
+<testcase classname="Capture list of centres in respective location" name="validate the navigation to All Categories link" time="22.31">
+<system-out><![CDATA[Given Luncht the browser and hit the url....................................passed
+When Navigate to All Categories Link........................................passed
+Then Validate the Navigation from All Categories link.......................passed
+]]></system-out>
+</testcase>
+</testsuite>

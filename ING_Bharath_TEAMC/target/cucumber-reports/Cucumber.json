@@ -1,0 +1,58 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-03-19T06:48:49.156Z",
+        "line": 3,
+        "name": "validate the navigation to All Categories link",
+        "description": "",
+        "id": "capture-list-of-centres-in-respective-location;validate-the-navigation-to-all-categories-link",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 22249000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Luncht the browser and hit the url",
+            "match": {
+              "location": "com.ui.stepdefinations.ValidateNavigateAllCategories.luncht_the_browser_and_hit_the_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Navigate to All Categories Link",
+            "match": {
+              "location": "com.ui.stepdefinations.ValidateNavigateAllCategories.navigate_to_All_Categories_Link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Validate the Navigation from All Categories link",
+            "match": {
+              "location": "com.ui.stepdefinations.ValidateNavigateAllCategories.validate_the_Navigation_from_All_Categories_link()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Capture list of centres in respective location",
+    "description": "",
+    "id": "capture-list-of-centres-in-respective-location",
+    "keyword": "Feature",
+    "uri": "file:Features/FirstCry.feature",
+    "tags": []
+  }
+]
