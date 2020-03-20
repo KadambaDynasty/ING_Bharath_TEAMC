@@ -1,0 +1,143 @@
+2020-03-19 15:02:50 INFO  WebEventListener:20 - Before navigating to: 'https://www.firstcry.com/'
+2020-03-19 15:02:57 INFO  WebEventListener:24 - Navigated to:'https://www.firstcry.com/'
+2020-03-19 15:03:12 INFO  WebEventListener:64 - Trying to find Element By : By.xpath: //button[@id='deny']
+2020-03-19 15:05:08 INFO  WebEventListener:20 - Before navigating to: 'https://www.firstcry.com/'
+2020-03-19 15:05:15 INFO  WebEventListener:24 - Navigated to:'https://www.firstcry.com/'
+2020-03-19 15:05:15 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:06:05 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:08:34 INFO  WebEventListener:20 - Before navigating to: 'https://www.firstcry.com/'
+2020-03-19 15:08:40 INFO  WebEventListener:24 - Navigated to:'https://www.firstcry.com/'
+2020-03-19 15:08:40 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:08:40 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:08:40 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:08:40 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:09:54 INFO  WebEventListener:20 - Before navigating to: 'https://www.firstcry.com/'
+2020-03-19 15:10:00 INFO  WebEventListener:24 - Navigated to:'https://www.firstcry.com/'
+2020-03-19 15:10:03 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:10:03 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:10:03 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:10:03 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:15:09 INFO  WebEventListener:20 - Before navigating to: 'https://www.firstcry.com/'
+2020-03-19 15:15:12 INFO  WebEventListener:24 - Navigated to:'https://www.firstcry.com/'
+2020-03-19 15:15:14 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:15:14 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:15:14 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:15:14 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:19:57 INFO  WebEventListener:20 - Before navigating to: 'https://www.firstcry.com/'
+2020-03-19 15:20:03 INFO  WebEventListener:24 - Navigated to:'https://www.firstcry.com/'
+2020-03-19 15:20:04 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:20:04 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:20:04 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:20:04 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:28:02 INFO  WebEventListener:20 - Before navigating to: 'https://www.firstcry.com/'
+2020-03-19 15:28:05 INFO  WebEventListener:24 - Navigated to:'https://www.firstcry.com/'
+2020-03-19 15:28:07 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:28:07 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:28:07 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:28:07 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:28:07 INFO  WebEventListener:36 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (1883a6c2ede2fe19a0dbf95887754725)] -> id: deny]
+2020-03-19 15:28:07 INFO  WebEventListener:40 - Clicked on: [[ChromeDriver: chrome on WINDOWS (1883a6c2ede2fe19a0dbf95887754725)] -> id: deny]
+2020-03-19 15:31:25 INFO  WebEventListener:20 - Before navigating to: 'https://www.firstcry.com/'
+2020-03-19 15:31:35 INFO  WebEventListener:24 - Navigated to:'https://www.firstcry.com/'
+2020-03-19 15:31:35 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:31:35 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:31:35 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:31:35 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:31:35 INFO  WebEventListener:36 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (a6ba036a8c4579fb4bcc13a3e0692372)] -> id: deny]
+2020-03-19 15:31:35 INFO  WebEventListener:40 - Clicked on: [[ChromeDriver: chrome on WINDOWS (a6ba036a8c4579fb4bcc13a3e0692372)] -> id: deny]
+2020-03-19 15:31:40 INFO  WebEventListener:64 - Trying to find Element By : By.cssSelector: div[class='menu-container'] ul li[class='B14_42 allcat'] a
+2020-03-19 15:31:40 INFO  WebEventListener:68 - Found Element By : By.cssSelector: div[class='menu-container'] ul li[class='B14_42 allcat'] a
+2020-03-19 15:31:40 INFO  WebEventListener:64 - Trying to find Element By : By.xpath: //span[@id='allmenu18']/../a
+2020-03-19 15:31:40 INFO  WebEventListener:68 - Found Element By : By.xpath: //span[@id='allmenu18']/../a
+2020-03-19 15:34:49 INFO  WebEventListener:20 - Before navigating to: 'https://www.firstcry.com/'
+2020-03-19 15:34:54 INFO  WebEventListener:24 - Navigated to:'https://www.firstcry.com/'
+2020-03-19 15:35:04 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:35:04 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:35:04 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:35:04 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:35:04 INFO  WebEventListener:36 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (99473557e9b8537e162ca3b3230a067e)] -> id: deny]
+2020-03-19 15:35:04 INFO  WebEventListener:40 - Clicked on: [[ChromeDriver: chrome on WINDOWS (99473557e9b8537e162ca3b3230a067e)] -> id: deny]
+2020-03-19 15:35:09 INFO  WebEventListener:64 - Trying to find Element By : By.cssSelector: div[class='menu-container'] ul li[class='B14_42 allcat'] a
+2020-03-19 15:35:09 INFO  WebEventListener:68 - Found Element By : By.cssSelector: div[class='menu-container'] ul li[class='B14_42 allcat'] a
+2020-03-19 15:35:09 INFO  WebEventListener:64 - Trying to find Element By : By.xpath: //span[@id='allmenu18']/../a
+2020-03-19 15:35:09 INFO  WebEventListener:68 - Found Element By : By.xpath: //span[@id='allmenu18']/../a
+2020-03-19 15:35:09 INFO  WebEventListener:64 - Trying to find Element By : By.xpath: //a[@title='Playschools']
+2020-03-19 15:35:09 INFO  WebEventListener:68 - Found Element By : By.xpath: //a[@title='Playschools']
+2020-03-19 15:37:25 INFO  WebEventListener:20 - Before navigating to: 'https://www.firstcry.com/'
+2020-03-19 15:37:35 INFO  WebEventListener:24 - Navigated to:'https://www.firstcry.com/'
+2020-03-19 15:37:40 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:37:40 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:37:40 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:37:40 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:37:40 INFO  WebEventListener:36 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (dd016520953d215a88d00b1a29d9c52e)] -> id: deny]
+2020-03-19 15:37:40 INFO  WebEventListener:40 - Clicked on: [[ChromeDriver: chrome on WINDOWS (dd016520953d215a88d00b1a29d9c52e)] -> id: deny]
+2020-03-19 15:37:45 INFO  WebEventListener:64 - Trying to find Element By : By.cssSelector: div[class='menu-container'] ul li[class='B14_42 allcat'] a
+2020-03-19 15:37:45 INFO  WebEventListener:68 - Found Element By : By.cssSelector: div[class='menu-container'] ul li[class='B14_42 allcat'] a
+2020-03-19 15:37:45 INFO  WebEventListener:64 - Trying to find Element By : By.xpath: //span[@id='allmenu18']/../a
+2020-03-19 15:37:45 INFO  WebEventListener:68 - Found Element By : By.xpath: //span[@id='allmenu18']/../a
+2020-03-19 15:37:45 INFO  WebEventListener:64 - Trying to find Element By : By.xpath: //a[@title='Playschools']
+2020-03-19 15:37:45 INFO  WebEventListener:68 - Found Element By : By.xpath: //a[@title='Playschools']
+2020-03-19 15:38:55 INFO  WebEventListener:20 - Before navigating to: 'https://www.firstcry.com/'
+2020-03-19 15:38:59 INFO  WebEventListener:24 - Navigated to:'https://www.firstcry.com/'
+2020-03-19 15:39:04 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:39:04 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:39:04 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:39:04 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:39:04 INFO  WebEventListener:36 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (01bea8f8b26f0515a1fcadfa0b96bce9)] -> id: deny]
+2020-03-19 15:39:04 INFO  WebEventListener:40 - Clicked on: [[ChromeDriver: chrome on WINDOWS (01bea8f8b26f0515a1fcadfa0b96bce9)] -> id: deny]
+2020-03-19 15:39:09 INFO  WebEventListener:64 - Trying to find Element By : By.cssSelector: div[class='menu-container'] ul li[class='B14_42 allcat'] a
+2020-03-19 15:39:09 INFO  WebEventListener:68 - Found Element By : By.cssSelector: div[class='menu-container'] ul li[class='B14_42 allcat'] a
+2020-03-19 15:39:09 INFO  WebEventListener:64 - Trying to find Element By : By.xpath: //span[@id='allmenu18']/../a
+2020-03-19 15:39:09 INFO  WebEventListener:68 - Found Element By : By.xpath: //span[@id='allmenu18']/../a
+2020-03-19 15:39:09 INFO  WebEventListener:64 - Trying to find Element By : By.xpath: //a[@title='Playschools']
+2020-03-19 15:39:09 INFO  WebEventListener:68 - Found Element By : By.xpath: //a[@title='Playschools']
+2020-03-19 15:42:48 INFO  WebEventListener:20 - Before navigating to: 'https://www.firstcry.com/'
+2020-03-19 15:43:01 INFO  WebEventListener:24 - Navigated to:'https://www.firstcry.com/'
+2020-03-19 15:43:01 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:43:01 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:43:01 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:43:01 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:43:01 INFO  WebEventListener:36 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (4ff592bf63830c017890b0b22c2d6e9f)] -> id: deny]
+2020-03-19 15:43:01 INFO  WebEventListener:40 - Clicked on: [[ChromeDriver: chrome on WINDOWS (4ff592bf63830c017890b0b22c2d6e9f)] -> id: deny]
+2020-03-19 15:43:06 INFO  WebEventListener:64 - Trying to find Element By : By.cssSelector: div[class='menu-container'] ul li[class='B14_42 allcat'] a
+2020-03-19 15:43:06 INFO  WebEventListener:68 - Found Element By : By.cssSelector: div[class='menu-container'] ul li[class='B14_42 allcat'] a
+2020-03-19 15:43:06 INFO  WebEventListener:64 - Trying to find Element By : By.xpath: //span[@id='allmenu18']/../a
+2020-03-19 15:43:06 INFO  WebEventListener:68 - Found Element By : By.xpath: //span[@id='allmenu18']/../a
+2020-03-19 15:45:49 INFO  WebEventListener:20 - Before navigating to: 'https://www.firstcry.com/'
+2020-03-19 15:45:52 INFO  WebEventListener:24 - Navigated to:'https://www.firstcry.com/'
+2020-03-19 15:45:55 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:45:55 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:45:55 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:45:55 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:45:55 INFO  WebEventListener:36 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (2d2d0f988e90a48be01cde76008863a3)] -> id: deny]
+2020-03-19 15:45:55 INFO  WebEventListener:40 - Clicked on: [[ChromeDriver: chrome on WINDOWS (2d2d0f988e90a48be01cde76008863a3)] -> id: deny]
+2020-03-19 15:46:00 INFO  WebEventListener:64 - Trying to find Element By : By.cssSelector: div[class='menu-container'] ul li[class='B14_42 allcat'] a
+2020-03-19 15:46:00 INFO  WebEventListener:68 - Found Element By : By.cssSelector: div[class='menu-container'] ul li[class='B14_42 allcat'] a
+2020-03-19 15:46:00 INFO  WebEventListener:64 - Trying to find Element By : By.xpath: //*[contains(text(),'STORES & PLAYSCHOOLS')]
+2020-03-19 15:46:00 INFO  WebEventListener:68 - Found Element By : By.xpath: //*[contains(text(),'STORES & PLAYSCHOOLS')]
+2020-03-19 15:48:53 INFO  WebEventListener:20 - Before navigating to: 'https://www.firstcry.com/'
+2020-03-19 15:49:16 INFO  WebEventListener:24 - Navigated to:'https://www.firstcry.com/'
+2020-03-19 15:49:24 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:49:24 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:49:24 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:49:24 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:49:24 INFO  WebEventListener:36 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (b3bad175cbcaef6853b2e02d5e8745b3)] -> id: deny]
+2020-03-19 15:49:24 INFO  WebEventListener:40 - Clicked on: [[ChromeDriver: chrome on WINDOWS (b3bad175cbcaef6853b2e02d5e8745b3)] -> id: deny]
+2020-03-19 15:49:29 INFO  WebEventListener:64 - Trying to find Element By : By.cssSelector: div[class='menu-container'] ul li[class='B14_42 allcat'] a
+2020-03-19 15:49:29 INFO  WebEventListener:68 - Found Element By : By.cssSelector: div[class='menu-container'] ul li[class='B14_42 allcat'] a
+2020-03-19 15:49:29 INFO  WebEventListener:64 - Trying to find Element By : By.xpath: //div[@class='all-category-container']//*[contains(text(),'STORES & PLAYSCHOOLS')]
+2020-03-19 15:49:29 INFO  WebEventListener:68 - Found Element By : By.xpath: //div[@class='all-category-container']//*[contains(text(),'STORES & PLAYSCHOOLS')]
+2020-03-19 15:54:00 INFO  WebEventListener:20 - Before navigating to: 'https://www.firstcry.com/'
+2020-03-19 15:54:05 INFO  WebEventListener:24 - Navigated to:'https://www.firstcry.com/'
+2020-03-19 15:54:07 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:54:08 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:54:08 INFO  WebEventListener:64 - Trying to find Element By : By.id: deny
+2020-03-19 15:54:08 INFO  WebEventListener:68 - Found Element By : By.id: deny
+2020-03-19 15:54:08 INFO  WebEventListener:36 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (809007d6a538d0724c699f8fd52d8783)] -> id: deny]
+2020-03-19 15:54:08 INFO  WebEventListener:40 - Clicked on: [[ChromeDriver: chrome on WINDOWS (809007d6a538d0724c699f8fd52d8783)] -> id: deny]
+2020-03-19 15:54:13 INFO  WebEventListener:64 - Trying to find Element By : By.cssSelector: div[class='menu-container'] ul li[class='B14_42 allcat'] a
+2020-03-19 15:54:13 INFO  WebEventListener:68 - Found Element By : By.cssSelector: div[class='menu-container'] ul li[class='B14_42 allcat'] a
+2020-03-19 15:54:13 INFO  WebEventListener:64 - Trying to find Element By : By.xpath: //div[@class='all-category-container']//*[contains(text(),'STORES & PLAYSCHOOLS')]
+2020-03-19 15:54:13 INFO  WebEventListener:68 - Found Element By : By.xpath: //div[@class='all-category-container']//*[contains(text(),'STORES & PLAYSCHOOLS')]
+2020-03-19 16:14:31 INFO  WebEventListener:20 - Before navigating to: 'https://www.firstcry.com/'
+2020-03-19 16:14:42 INFO  WebEventListener:24 - Navigated to:'https://www.firstcry.com/'
